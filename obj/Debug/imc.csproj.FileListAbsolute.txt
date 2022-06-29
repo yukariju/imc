@@ -1,0 +1,11 @@
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\bin\Debug\imc.exe.config
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\bin\Debug\imc.exe
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\bin\Debug\imc.pdb
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\obj\Debug\imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\obj\Debug\imc.Form1.resources
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\obj\Debug\imc.Properties.Resources.resources
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\obj\Debug\imc.csproj.GenerateResource.cache
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\obj\Debug\imc.exe
+C:\Users\julia.yiwasaki\Documents\doc do c9\imc\imc\obj\Debug\imc.pdb
